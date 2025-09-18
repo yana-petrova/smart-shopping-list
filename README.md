@@ -40,8 +40,8 @@
 
 SQLite Viewer для просмотра БД: `https://inloop.github.io/sqlite-viewer/`
 
-```
 ## ✨ Структура проекта
+```
 smart-shopping-list/
 ├── app.py                  # Главный файл приложения Flask
 ├── models.py               # Модели базы данных
